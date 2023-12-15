@@ -1,0 +1,32 @@
+using System;
+using System.collections.Generic;
+using System.Linq;
+using System.Text;
+using System.threading.tasks;
+
+namespace convertBinarytodecimal
+{
+    class Program
+    {
+        public static int BinaryToDecimal(int binary)//número binario como argumento y devuelve un número decimal
+        { 
+    //caso base
+    if(binary == 0) // si el numero es igual a 0, devuelve 0
+{ 
+    return 0;
+}
+else
+{
+//devuelve un digito y se lo llama por recursion con el num binario / su base 10
+   return (binary % 10) + 2 * BinaryToDecimal(binary / 10);  
+  
+    public static void Main(string[] args) 
+    {
+        Console.WriteLine("Ingrese el número binario: "); 
+        int binary = Convert.ToInt32(Console.ReadLine()); //  número binario ingresado por el usuario y lo convierte a un entero
+        int decimalNumber = BinaryToDecimal(binary); // Llama a BinaryToDecimal para convertir el número a decimal
+        Console.WriteLine("El número decimal correspondiente es: " + decimalNumber);
+        
+    }
+}
+
