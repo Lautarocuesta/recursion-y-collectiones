@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\recursion-y-collectiones\obj\Debug\net8.0\recursion-y-collectiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\recursion-y-collectiones\obj\Debug\net8.0\recursion-y-collectiones.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\recursion-y-collectiones\obj\Debug\net8.0\recursion-y-collectiones.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\recursion-y-collectiones\obj\Debug\net8.0\recursion-y-collectiones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\recursion-y-collectiones\obj\Debug\net8.0\recursion-y-collectiones.sourcelink.json
